@@ -85,4 +85,5 @@ Use V4.2 + Policy Lens + Research/Evidence Fusion (P/R) for:
 
 ## Attribution
 
+Geoff Webster 2026 April
 MIT licence. If you use or adapt this framework, attribution is appreciated.
